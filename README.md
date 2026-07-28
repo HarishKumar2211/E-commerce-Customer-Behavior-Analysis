@@ -136,12 +136,6 @@ This project analyzes transactional data to:
 
 ---
 
-## 🎤 Interview Explanation
-
-“I performed an end-to-end SQL analysis on an e-commerce dataset, focusing on customer behavior, revenue trends, and business performance. I solved real-world business problems and generated actionable insights using advanced SQL techniques like joins, CTEs, and window functions.”
-
----
-
 ## ⭐ Key Skills Demonstrated
 
 * SQL (Joins, Aggregations, CTEs, Window Functions)
